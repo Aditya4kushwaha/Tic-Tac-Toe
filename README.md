@@ -4,7 +4,7 @@ A classic **Tic Tac Toe** game built using **React** and bundled with **Vite** f
 
 ## 🚀 Live Demo
 
-[Click here to play the game](https://tic-tac-toe-aditya-kushwahas-projects-85432551.vercel.app/)
+[Click here] (https://tic-tac-toe-aditya-kushwahas-projects-85432551.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -43,10 +43,7 @@ tic-tac-toe/
 
 ## 📦 Installation
 
-1. **Clone the repo**
-```bash
-git clone https://github.com/Aditya4kushwaha/tic-tac-toe-react-vite.git
-cd tic-tac-toe-react-vite
+1. Clone the repo - git clone https://github.com/Aditya4kushwaha/Tic-Tac-Toe.git
 
 2. Install dependencies - npm install
 
