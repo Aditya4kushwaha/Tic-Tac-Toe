@@ -40,13 +40,18 @@ tic-tac-toe/
 └── vite.config.js
 
 
-🧑‍💻 Made by
-Aditya Kushwaha
-🌐 Portfolio
-🐦 Twitter
-💼 LinkedIn
 
-Let’s connect and grow together 🚀
+## 📦 Installation
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/Aditya4kushwaha/tic-tac-toe-react-vite.git
+cd tic-tac-toe-react-vite
+
+npm install
+npm run dev
+npm run build
+
 
 
 
