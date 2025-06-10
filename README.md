@@ -1,12 +1,52 @@
-# React + Vite
+# 🎮 Tic Tac Toe - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A classic **Tic Tac Toe** game built using **React** and bundled with **Vite** for blazing-fast development. Enjoy playing against another player on the same device!
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here to play the game](https://tic-tac-toe-aditya-kushwahas-projects-85432551.vercel.app/)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React (with Hooks)
+- ⚡ Vite
+- 🎨 CSS (Simple custom styling)
+- 🧠 Functional components & state management
+
+## 🧩 Features
+
+- Two-player game (on same device)
+- Highlights the winning combination
+- Game reset functionality
+- Responsive design
+- Clean UI with smooth transitions
+
+## 📂 Project Structure
+
+tic-tac-toe/
+├── public/
+│ └── favicon.svg
+├── src/
+│ ├── components/
+│ │ ├── Board.jsx
+│ │ ├── Square.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
+
+
+🧑‍💻 Made by
+Aditya Kushwaha
+🌐 Portfolio
+🐦 Twitter
+💼 LinkedIn
+
+Let’s connect and grow together 🚀
+
+
+
