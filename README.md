@@ -48,9 +48,12 @@ tic-tac-toe/
 git clone https://github.com/Aditya4kushwaha/tic-tac-toe-react-vite.git
 cd tic-tac-toe-react-vite
 
-npm install
-npm run dev
-npm run build
+2. Install dependencies - npm install
+
+3. Start the dev server - npm run dev
+
+4.  Build for production - npm run build
+   
 
 
 
